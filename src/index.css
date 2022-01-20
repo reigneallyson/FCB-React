@@ -1,7 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 .app {
   text-align: center;
 }
 
+body{
+  font-family: 'Mochiy Pop P One'sans-serif;
+
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 .app-header {
   background-color: #282c34;
   min-height: 100vh;
